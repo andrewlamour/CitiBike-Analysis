@@ -10,7 +10,7 @@ Analyzed and brokedown data from Quarter 1 of 2019 from [Citi Bike's](https://ww
  <img src="images/ridermap.png"
 </p>
   
- * Based off the provided latituted and longituted of the biki stations, the data shows that the vast majority of stations are located in the heart of NYC. 
+ * Based off the provided latituted and longituted of the bike stations, the data shows that the vast majority of stations are located in the heart of NYC. 
   
   <p align="center">
  <img src="images/gender.png"
